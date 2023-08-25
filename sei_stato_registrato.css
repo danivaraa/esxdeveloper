@@ -1,0 +1,29 @@
+body {
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.cta-button:hover {
+    background-color: #ff8800;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
